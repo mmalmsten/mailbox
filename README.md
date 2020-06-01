@@ -1,0 +1,2 @@
+# mailbox
+Simple Erlang mailbox
